@@ -12,8 +12,7 @@
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami) -->
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
 
 
 
@@ -66,7 +65,7 @@ React Native
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
 </a>
-
+ <br>
 ![Metrics](https://metrics.lecoq.io/abk-gami?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
   
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
