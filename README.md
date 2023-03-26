@@ -12,7 +12,7 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami) -->
+
 
 
 
