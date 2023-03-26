@@ -11,6 +11,8 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+  
 </p>
 <div size='20px'> Hi! My name is Yahaya Abubakar Adebayo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
