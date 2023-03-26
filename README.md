@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**abk-gami/abk-gami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **abk-gami/abk-gami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" alt="cover" />
