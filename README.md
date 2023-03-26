@@ -11,7 +11,9 @@
 <p align='center'>
 
 <!-- https://visitor-badge.glitch.me/badge?page_id=https://github.com/abk-gami.https://github.com/abk-gami -->
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
+
 
 
 </p>
