@@ -13,7 +13,7 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
   
 </p>
-<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, the official errand-boy at Gami. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -21,7 +21,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects, Javascript projects, java projects, Website developments.
+- 🔭 I’m currently working on Github projects, Mobile app cross platform projects, Javascript projects, java projects, Website developments.
 
 - 🌱 I’m currently learning
 HTML
