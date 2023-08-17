@@ -13,7 +13,7 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=abk-gami.abk-gami)
   
 </p>
-<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, the official errand-boy at     <a href="https://twitter.com/gami_hq">gami.</a>
+<div size='20px'> Hi! My name is Yahaya Abubakar Adebayo, the official errand-boy at     <a href="https://twitter.com/gami_hq">Gami.</a>
  Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -24,10 +24,10 @@
 
 - 🔭 I’m currently working on Github projects, Mobile app cross platform projects, Javascript projects, java projects, Website developments.
 
-- 🌱 I’m conversant with
-HTML
-CSS
-Javascript
+- 🌱 I’m conversant with: <br/>
+HTML <br/>
+CSS <br/>
+Javascript <br/>
 React Native 
 
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works  
@@ -39,7 +39,6 @@ React Native
 <a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 
 
