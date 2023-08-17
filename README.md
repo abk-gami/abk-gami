@@ -24,17 +24,15 @@
 
 - 🔭 I’m currently working on Github projects, Mobile app cross platform projects, Javascript projects, java projects, Website developments.
 
-- 🌱 I’m currently learning
+- 🌱 I’m conversant with
 HTML
 CSS
 Javascript
-ReactJs
-Java
 React Native 
 
 - 👯 I’m looking to collaborate on projects, tech articles, open source, bootcamps, group projects, remote works  
 
-- 💬 Talk to me about Website development, JavaScript, Freelancing Opportunites, Open Source, Bootcamps, remote works 
+- 💬 Talk to me about Website development,Cross-platform mobile app development, JavaScript, Freelancing Opportunites, Open Source, Bootcamps, remote works 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/abk-gami?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
